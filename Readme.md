@@ -8,7 +8,7 @@ The HAC Initiative is a research and practice hub focused on **High-Agency Codin
 This is not about typing less code.
 It is about **owning more of the system**.
 
-AI is not treated as a novelty, assistant, or “copilot.”  
+Coding agents should not treated as a novelty, assistant, or “copilot.”
 It is treated as an **execution engine**—directed by a developer who understands the system deeply enough to steer, verify, and correct it.
 
 High-Agency Coding is what happens when expertise meets leverage.
@@ -68,7 +68,7 @@ HAC rejects that framing entirely.
 
 ## Core Principles of High-Agency Coding
 
-1. **Intent over keystrokes**  
+1. **Multi-Vectored Intent over keystrokes**  
    The value is in defining the right behavior, not producing source code.
 
 2. **Abstraction is power**  
@@ -119,7 +119,6 @@ Clarity beats completeness.
 ## Position
 
 HAC is not anti-team.
-It is anti-cargo-cult.
 
 Teams benefit when individuals have agency.
 Organizations stagnate when responsibility is diffused.
