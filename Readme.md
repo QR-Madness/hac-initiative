@@ -70,7 +70,7 @@ HAC rejects that framing entirely.
 
 ## Core Principles of High-Agency Coding
 
-1. **Intent over keystrokes**
+1. **Intent over keystrokes**  
    The value is in defining the right behavior, not producing source code.
 
 2. **Abstraction is power**  
