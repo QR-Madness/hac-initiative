@@ -1,5 +1,7 @@
-# The HAC Initiative  
-**High-Agency Coding (“hack”)**
+# The HAC Initiative
+**High-Agency Coding ("hack")**
+
+> **Note:** This repository is primarily maintained by AI with human supervision and review.
 
 ## What This Is
 
@@ -8,8 +10,8 @@ The HAC Initiative is a research and practice hub focused on **High-Agency Codin
 This is not about typing less code.
 It is about **owning more of the system**.
 
-Coding agents should not treated as a novelty, assistant, or “copilot.”
-It is treated as an **execution engine**—directed by a developer who understands the system deeply enough to steer, verify, and correct it.
+Coding agents should not be treated as a novelty, assistant, or "copilot."
+They are **execution engines**—directed by a developer who understands the system deeply enough to steer, verify, and correct them.
 
 High-Agency Coding is what happens when expertise meets leverage.
 
@@ -68,7 +70,7 @@ HAC rejects that framing entirely.
 
 ## Core Principles of High-Agency Coding
 
-1. **Multi-Vectored Intent over keystrokes**  
+1. **Intent over keystrokes**
    The value is in defining the right behavior, not producing source code.
 
 2. **Abstraction is power**  
@@ -103,7 +105,23 @@ It is also inevitable.
 
 ---
 
-## What You’ll Find Here (Planned)
+## The Opportunity
+
+AI will not replace developers. It will differentiate them.
+
+The developers who care about impact—who take ownership, who understand their systems—will use AI to accelerate dramatically. They will take on scope that previously required teams. They will ship faster with higher confidence.
+
+The developers who coast, who avoid accountability, who never understood the systems they worked on—AI will expose them.
+
+This is not a threat. It is a filter.
+
+For organizations willing to adopt a HAC mindset—respecting human capital, investing in learning, trusting high-agency individuals—the ceiling rises. Projects that seemed too ambitious become tractable. Goals that required committees become achievable by small, focused teams.
+
+The leverage is real. The question is who will use it responsibly.
+
+---
+
+## What You'll Find Here (Planned)
 
 - Research notes on AI-driven development patterns
 - Practical HAC workflows and heuristics
@@ -118,12 +136,14 @@ Clarity beats completeness.
 
 ## Position
 
-HAC is not anti-team.
+HAC is not anti-team, it is an [anti-cargo-cult](https://en.wikipedia.org/wiki/Cargo_cult_programming).
 
 Teams benefit when individuals have agency.
 Organizations stagnate when responsibility is diffused.
 
 High-Agency Coding is a standard, not a trend.
+
+**An agent extends your reach, not your liability shield.**
 
 ---
 
@@ -133,5 +153,4 @@ Early.
 Opinionated.
 Actively evolving.
 
-If you disagree, good.
-If you can prove it with systems that work, even better.
+Feedback and working examples welcome.
